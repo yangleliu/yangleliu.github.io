@@ -32,7 +32,6 @@ I am supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/Ji
 
 [CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting](https://arxiv.org/abs/2506.01109)
 
-*arXiv preprint*
 
 Fengze Li, **Yangle Liu**, Jieming Ma*, Hai-Ning Liang, Yaochun Shen, Huangxiang Li, Zhijing Wu 
 
@@ -48,7 +47,7 @@ Fengze Li, **Yangle Liu**, Jieming Ma*, Hai-Ning Liang, Yaochun Shen, Huangxiang
 
 [SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](https://arxiv.org/abs/2506.20167)
 
-*The 8th International Conference on Big Data and Artificial Intelligence (BDAI), 2025 (Oral Presentation)*
+<span style="color:red">(Oral Presentation)</span>
 
 Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li 
 
@@ -63,9 +62,9 @@ Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TMCCA 2024</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum]
+EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum
 
-*ACM Transactions on Multimedia Computing, Communications, and Applications, 2024, Under Review*
+*Under Review*
 
 Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li* 
 
@@ -83,7 +82,6 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li*
 
 [Automated Generation of Parking Data Sets for Underground Car Parks](https://doi.org/10.4271/2025-01-7191)
 
-*International Conference on Smart Transportation Interdisciplinary Studies (ICSTIS, 2024)*
 
 Jiakai Li, **Yangle Liu**, Zheng Rong
 
@@ -95,16 +93,36 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2023* RoboMaster 2023 Master Super Competition: First Prize (Regional), Second Prize (National) 
+- *2023* College Student Information System Innovation Competition: Outstanding Award
+- *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
+- *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2024.06*, Undergraduate, Xi’an Jiaotong–Liverpool University, Suzhou.
+- *2024.09 - now*, Undergraduate, University of Liverpool, UK.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Neurova, New York
+Machine Learning Intern 
+*2025.06 - 2025.08*
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/AUO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AUO, Suzhou
+Software Development Intern, NUVA Platform Development Department 
+*2024.06 - 2024.08*
+
+</div>
+</div>
