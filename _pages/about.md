@@ -23,8 +23,8 @@ I am supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/Ji
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 
+- *2024.11*: &nbsp;🎉🎉 The first collaborative paper I worked on was accepted by ICSTIS, 2024!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/fruit.png' alt="sym" width="100%"></div></div>
@@ -105,7 +105,7 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" style="width:300px; height:200px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" style="width:100px; height:50px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Neurova, New York
@@ -119,7 +119,7 @@ Machine Learning Intern
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/auo (2).png' alt="sym" style="width:200px; height:200px; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/auo (2).png' alt="sym" style="width:50px; height:50px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AUO, Suzhou
