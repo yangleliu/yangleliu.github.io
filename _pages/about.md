@@ -105,7 +105,7 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 
 # 💻 Internships
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" style="width:200px; height:200px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Neurova, New York
