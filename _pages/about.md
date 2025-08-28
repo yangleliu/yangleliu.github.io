@@ -109,7 +109,9 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 <div class='paper-box-text' markdown="1">
 
 Neurova, New York
+
 Machine Learning Intern 
+
 *2025.06 - 2025.08*
 
 </div>
@@ -121,7 +123,9 @@ Machine Learning Intern
 <div class='paper-box-text' markdown="1">
 
 AUO, Suzhou
+
 Software Development Intern, NUVA Platform Development Department 
+
 *2024.06 - 2024.08*
 
 </div>
