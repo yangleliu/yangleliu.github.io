@@ -1,65 +1,57 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+# ========== Site Settings ==========
+title       : "Yangle Liu | Computing Science"
+description : "BSc in Computing Science @ University of Liverpool. Research in 3D vision, LLMs, and applied AI."
+repository  : "yangleliu/yangleliu.github.io"   # <- 如果仓库名与账户同名（user site），这里填 <username>/<username>.github.io
 google_scholar_stats_use_cdn : true
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# 可选：Google Analytics
+google_analytics_id:    # UA-XXXX 或 G-XXXX
 
-# SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# ========== SEO ==========
+google_site_verification:
+bing_site_verification:
+baidu_site_verification:
 
-# Site Author
+# ========== Site Author ==========
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name          : "Yangle Liu"
+  avatar        : "images/avatar.jpg"     # 放一张头像到 /images/avatar.jpg（正方形）
+  bio           : "BSc Computing Science, University of Liverpool"
+  location      : "Liverpool, UK"
+  employer      :
+  pubmed        :
+  googlescholar :   # 以后有 Scholar ID 再填
+  email         : "2639174816@protonmail.com"
+  researchgate  :
+  uri           :
+  bitbucket     :
+  codepen       :
+  dribbble      :
+  flickr        :
+  facebook      :
+  foursquare    :
+  github        : "yangleliu"             # 你的 GitHub 用户名（若不同请改）
+  google_plus   :
+  keybase       :
+  instagram     :
+  impactstory   :
+  lastfm        :
+  linkedin      :                          # 只填用户名/slug（例如: yangle-liu）
+  dblp          :
+  orcid         :
+  pinterest     :
+  soundcloud    :
+  stackoverflow :
+  steam         :
+  tumblr        :
+  twitter       :
+  vine          :
+  weibo         :
+  xing          :
+  youtube       :
+  wikipedia     :
 
-
-# Reading Files
+# ========== Reading Files ==========
 include:
   - .htaccess
   - _pages
@@ -77,36 +69,23 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
-  - Gruntfile.js
+  - Gemfile.lock
   - LICENSE
   - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
+  - vendor
   - node_modules
   - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
+  - package-lock.json
+
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
-markdown: kramdown
+paginate: 10
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-# Markdown Processing
+# ========== Markdown ==========
 kramdown:
   input: GFM
   hard_wrap: false
@@ -117,9 +96,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Defaults
+# ========== Defaults ==========
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
@@ -127,25 +105,11 @@ defaults:
       layout: default
       author_profile: true
 
-
-# Sass/SCSS
+# ========== Sass ==========
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -154,10 +118,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
-# HTML Compression
-# - http://jch.penibelst.de/
+# ========== HTML Compression ==========
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: []
