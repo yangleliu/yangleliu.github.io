@@ -133,42 +133,44 @@ Software Development Intern, NUVA Platform Development Department
 </div>
 
 
-<!-- 小尺寸容器，放到右下角；你也可以改成居中或固定在别处 -->
-<div id="globeViz"
-     style="position:fixed; right:16px; bottom:16px; width:320px; height:320px; z-index:10;"></div>
+<!-- 文末插入：地球容器 -->
+<div id="globeViz" style="width:340px;height:340px;margin:32px auto;"></div>
 
 <script src="https://unpkg.com/globe.gl"></script>
 <script>
+  // 若主题渲染后还有内容追加，这段会把地球容器再次移到页末，确保“文末显示”
+  document.addEventListener('DOMContentLoaded', () => {
+    const content = document.querySelector('.page__content') || document.querySelector('main');
+    const el = document.getElementById('globeViz');
+    if (content && el && el.parentNode !== content) content.appendChild(el);
+  });
+
   const globe = Globe()
-    // ① 背景换为白色
-    .backgroundColor('#ffffff')                          // API 支持设置背景色
-    // ② 使用更亮的“白天纹理”（替换你之前的 earth-dark.jpg）
+    .backgroundColor('#ffffff')                                   // 白色背景
     .globeImageUrl('//unpkg.com/three-globe/example/img/earth-day.jpg')
-    // ③ 调小画布尺寸（也可只改上面的 div 宽高）
-    .width(320)
-    .height(320)
-    // ④（可选）把大气层颜色调浅一点，显得更亮
-    .atmosphereColor('lightskyblue')
-    .atmosphereAltitude(0.2);
+    .width(340).height(340);
+
+  // 你的城市坐标
+  const cities = [
+    { lat: 31.3017, lng: 120.5811, name: 'Suzhou' },
+    { lat: 31.00,   lng: 121.25,   name: 'Shanghai' },
+    { lat: 23.128994, lng: 113.253250, name: 'Guangzhou' },
+    { lat: 37.7749,   lng: -122.4194,  name: 'San Francisco' },
+    { lat: 53.4084,   lng: -2.9916,    name: 'Liverpool' },
+    { lat: 51.5074,   lng: -0.1278,    name: 'London' },
+    { lat: 52.2053,   lng:  0.1218,    name: 'Cambridge' },
+    { lat: 48.7758,   lng:  9.1829,    name: 'Stuttgart' }
+  ];
 
   globe(document.getElementById('globeViz'))
-    // 仍然使用你之前的城市坐标
-    .pointsData([
-      { lat: 31.3017, lng: 120.5811, name: 'Suzhou' },
-      { lat: 31.00,   lng: 121.25,   name: 'Shanghai' },
-      { lat: 23.128994, lng: 113.253250, name: 'Guangzhou' },
-      { lat: 37.7749,   lng: -122.4194,  name: 'San Francisco' },
-      { lat: 53.4084,   lng: -2.9916,    name: 'Liverpool' },
-      { lat: 51.5074,   lng: -0.1278,    name: 'London' },
-      { lat: 52.2053,   lng:  0.1218,    name: 'Cambridge' },
-      { lat: 48.7758,   lng:  9.1829,    name: 'Stuttgart' }
-    ])
-    .pointColor(() => 'green')
-    .pointRadius(0.5)
+    .pointsData(cities)
+    .pointColor(() => 'red')        // 标记改为红色
+    .pointRadius(0.55)
     .pointLabel(d => d.name);
 
-  // ⑤ 自动旋转（可调速度）
+  // 自动旋转
   globe.controls().autoRotate = true;
-  globe.controls().autoRotateSpeed = 0.6;  // 0.2~1.0 之间比较舒适
+  globe.controls().autoRotateSpeed = 0.6;
 </script>
+
 
