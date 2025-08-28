@@ -131,3 +131,28 @@ Software Development Intern, NUVA Platform Development Department
 
 </div>
 </div>
+
+
+<!-- 放在 /_pages/about.md 文末 -->
+<div id="globeViz" style="width:360px;height:360px;margin:24px auto;"></div>
+<script src="https://unpkg.com/globe.gl"></script>
+<script>
+const globe = Globe()
+  .globeImageUrl('//unpkg.com/three-globe/example/img/earth-dark.jpg')
+  .pointOfView({ lat: 20, lng: 0, altitude: 2 });
+
+globe(document.getElementById('globeViz'))
+  .pointsData([
+    { lat: 31.3017, lng: 120.5811, name: 'Suzhou' },
+    { lat: 31.00,   lng: 121.25,   name: 'Shanghai' },
+    { lat: 23.128994, lng: 113.253250, name: 'Guangzhou' },
+    { lat: 37.7749, lng: -122.4194, name: 'San Francisco' },
+    { lat: 53.4084, lng: -2.9916,   name: 'Liverpool' },
+    { lat: 51.5074, lng: -0.1278,   name: 'London' },
+    { lat: 52.2053, lng: 0.1218,    name: 'Cambridge' },
+    { lat: 48.7758, lng: 9.1829,    name: 'Stuttgart' }
+  ])
+  .pointColor(() => 'green')
+  .pointRadius(0.5)
+  .pointLabel(d => d.name);
+</script>
