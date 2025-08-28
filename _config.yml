@@ -1,6 +1,6 @@
 # ========== Site Settings ==========
 title       : "Yangle Liu | Computing Science"
-description : "BSc in Computing Science @ University of Liverpool. Research in 3D vision, LLMs, and applied AI."
+description : "Developing data-driven methods in ML and CV for forecasting, 3D perception, and intelligent systems."
 repository  : "yangleliu/yangleliu.github.io"   # <- 如果仓库名与账户同名（user site），这里填 <username>/<username>.github.io
 google_scholar_stats_use_cdn : true
 
@@ -15,7 +15,7 @@ baidu_site_verification:
 # ========== Site Author ==========
 author:
   name          : "Yangle Liu"
-  avatar        : "images/avatar.jpg"     # 放一张头像到 /images/avatar.jpg（正方形）
+  avatar        : "images/photo.png"     # 放一张头像到 /images/avatar.jpg（正方形）
   bio           : "BSc Computing Science, University of Liverpool"
   location      : "Liverpool, UK"
   employer      :
