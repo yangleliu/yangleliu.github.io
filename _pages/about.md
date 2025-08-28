@@ -119,7 +119,7 @@ Machine Learning Intern
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/AUO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/auo (2).png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AUO, Suzhou
