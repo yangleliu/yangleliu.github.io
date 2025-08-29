@@ -14,6 +14,32 @@
 <link rel="stylesheet" href="assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
-<head>
-  <base target="_blank">
-</head>
+
+{%- comment -%}
+  Google Analytics 4 (gtag.js) integration.
+  - Measurement ID is read from site.google_analytics_id in _config.yml
+  - anonymize_ip set to true for better privacy (optional)
+  If you want to temporarily enable debug view, add 'debug_mode': true to the config below
+{%- endcomment -%}
+
+{% if site.google_analytics_id %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics_id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  // 在这里启用 IP 匿名化（GDPR/隐私友好）
+  gtag('config', '{{ site.google_analytics_id }}', { 'anonymize_ip': true });
+
+  // === 可选：调试用（短期） ===
+  // 如果你想在 GA 的 DebugView 里强制看到事件以便调试，
+  // 临时把上面一行替换为下面带 debug_mode 的行（调试完记得撤回）
+  // gtag('config', '{{ site.google_analytics_id }}', { 'anonymize_ip': true, 'debug_mode': true });
+  // ============================
+</script>
+{% endif %}
+
+<!-- NOTE: 你的原来文件里出现了 <head> 标签；一般 _includes/head.html 会被 layout 包裹在 <head> 中，
+     请确保不要重复嵌套 <head>。若 layout 已有 <head>，请删除下面的内联 <head> 块（如果存在）。 -->
