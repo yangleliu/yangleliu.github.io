@@ -20,7 +20,7 @@ author:
   location      : "Liverpool, UK"
   employer      :
   pubmed        :
-  googlescholar :   # 以后有 Scholar ID 再填
+  googlescholar : "https://scholar.google.com/citations?user=1XMwUH4AAAAJ&hl=en"  # 以后有 Scholar ID 再填
   email         : "2639174816@protonmail.com"
   researchgate  :
   uri           :
@@ -30,7 +30,7 @@ author:
   flickr        :
   facebook      :
   foursquare    :
-  github        : "yangleliu"             # 你的 GitHub 用户名（若不同请改）
+  github        : "https://github.com/Cola-1"             # 你的 GitHub 用户名（若不同请改）
   google_plus   :
   keybase       :
   instagram     :
