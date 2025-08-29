@@ -93,7 +93,7 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 # 🎖 Honors and Awards
 
-- *2023* RoboMaster 2023 Master Super Competition: First Prize (Regional), Second Prize (National) 
+- *2023* RoboMaster Super Competition: First Prize (Regional), Second Prize (National) 
 - *2023* College Student Information System Innovation Competition: Outstanding Award
 - *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
 - *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
