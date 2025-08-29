@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, an undergraduate student at the University of Liverpool. My research spans computer vision/graphics and machine learning, with interests in real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
+I am Yangle Liu, an undergraduate student at the University of Liverpool. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
 
 I am supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) at Xi’an Jiaotong–Liverpool University (XJTLU) and [Prof. Dominik Wojtczak](https://www.csc.liv.ac.uk/~dominik/) at the University of Liverpool. In addition, I have actively collaborated with several international researchers with Prof. [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST (Guangzhou)), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc. Bo Xiong](https://boxiong.io/) (Stanford University), with whom I maintain close academic collaboration.
 
