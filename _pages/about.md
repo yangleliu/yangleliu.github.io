@@ -30,7 +30,7 @@ I am supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/Ji
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/endo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes]
+Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes
 
 
 **Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma*
