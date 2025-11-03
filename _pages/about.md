@@ -147,7 +147,7 @@ Software Development Intern, NUVA Platform Development Department
 </div>
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=7E250tPFDFf8CmNKqwz1BV1oL6gxw-dLHupj1jLi2OE&cl=ffffff&w=a"></script>
+
 
 
 <!-- 文末插入：地球容器 -->
