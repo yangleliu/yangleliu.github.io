@@ -76,7 +76,7 @@ Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TMCCA 2024</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum
+[EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://arxiv.org/abs/2511.22056)
 
 *Under Review*
 
