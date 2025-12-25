@@ -35,6 +35,7 @@ I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/pers
 
 **Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma*
 
+[**Project**](https://github.com/Cola-1/ENDO-G2T) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose ENDO-G²T, a geometry-guided and temporally aware training scheme for time-embedded 4D Gaussian splatting, achieving state-of-the-art reconstruction accuracy and efficiency in dynamic endoscopic scenes.
 </div>
 </div>
@@ -65,7 +66,7 @@ Fengze Li, **Yangle Liu**, Jieming Ma*, Hai-Ning Liang, Yaochun Shen, Huangxiang
 
 Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li 
 
-
+[**Project**](https://github.com/Cola-1/SEED) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose SEED, a structural encoder for embedding-driven decoding, designed to bridge the gap between structural representation learning and semantic inference in multivariate time series forecasting, enabling effective integration with pretrained language models for improved prediction accuracy.
 </div>
 </div>
@@ -99,7 +100,7 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li*
 
 Jiakai Li, **Yangle Liu**, Zheng Rong
 
-
+[**Project**](https://github.com/Cola-1/Auto-ParkingLot-Generator) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a method using Blender software to generate synthetic underground parking datasets for autonomous driving, addressing challenges in data acquisition and annotation, and providing open-source resources for further development. 
 </div>
 </div>
