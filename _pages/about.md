@@ -21,6 +21,10 @@ I am Yangle Liu, an undergraduate student at the University of Liverpool. My res
 
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
+
+I have interned as a Machine Learning Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a Software Development Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
+
+I’m happy to collaborate with researchers from any field, feel free to contact me via [email](sgyli136@liverpool.ac.uk).
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 
 - *2024.11*: &nbsp;🎉🎉 The first collaborative paper I worked on was accepted by ICSTIS, 2024!
