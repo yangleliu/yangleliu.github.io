@@ -65,7 +65,7 @@ Fengze Li, **Yangle Liu**, Jieming Ma*, Hai-Ning Liang, Yaochun Shen, Huangxiang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDAI 2025</div><img src='/images/seed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](https://arxiv.org/abs/2506.20167)
+[SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](https://ieeexplore.ieee.org/document/11325686)
 
 <span style="color:red">(Oral Presentation)</span>
 
