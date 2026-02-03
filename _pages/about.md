@@ -26,7 +26,7 @@ I have interned as a Machine Learning Intern at [Neurova AI](https://www.neurova
 
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](sgyli136@liverpool.ac.uk).
 # 🔥 News
-- *2026.01*: &nbsp; My first-author paper were accepted by ICASSP 2026! 🎉🎉
+- *2026.01*: &nbsp; My first-author paper was accepted by ICASSP 2026! 🎉🎉
 - *2025.08*: &nbsp; My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 🎉🎉
 - *2024.11*: &nbsp; The first collaborative paper I worked on was accepted by ICSTIS, 2024!!!
 
