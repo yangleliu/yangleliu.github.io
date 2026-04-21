@@ -55,7 +55,7 @@ I’m happy to collaborate with researchers from any field, feel free to contact
 
 Fengze Li, **Yangle Liu**, Jieming Ma*, Hai-Ning Liang, Yaochun Shen, Huangxiang Li, Zhijing Wu 
 
-[**Project**](https://fruitlanggs.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**]([https://github.com/Cola-1/FruitLangGS]) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose FruitLangGS, a language-guided 3D fruit counting framework that uses adaptive Gaussian splatting, semantic embedding, and prompt-based filtering to efficiently count fruit instances in orchard environments, even under heavy occlusion.
 </div>
 </div>
