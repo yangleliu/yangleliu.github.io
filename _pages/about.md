@@ -120,7 +120,7 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 - *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
 
 # 📖 Educations
-- *2024.09 - now*, Undergraduate, University of Liverpool, UK.
+- *2024.09 - 2026.06*, Undergraduate, University of Liverpool, UK.
 - *2022.09 - 2024.06*, Undergraduate, Xi’an Jiaotong–Liverpool University, Suzhou.
 
 
