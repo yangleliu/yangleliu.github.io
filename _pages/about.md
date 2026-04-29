@@ -35,7 +35,7 @@ I’m happy to collaborate with researchers from any field, feel free to contact
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes](https://arxiv.org/abs/2511.21367)
+[Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes](https://ieeexplore.ieee.org/abstract/document/11460625)
 
 
 **Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma*
