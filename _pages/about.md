@@ -17,12 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, an undergraduate student at the University of Liverpool. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
+I am Yangle Liu, a master’s student in Electrical and Computer Engineering at Carnegie Mellon University. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
 
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
 
 I have interned as a Machine Learning Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a Software Development Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
+
+# 📖 Education
+
+**Carnegie Mellon University** <span style="float: right;">Pittsburgh, US</span>  
+M.S. in Electrical and Computer Engineering <span style="float: right;">Feb. 2027 – Dec. 2029</span>  
+
+**University of Liverpool** <span style="float: right;">Liverpool, UK</span>  
+B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</span>
 
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](sgyli136@liverpool.ac.uk).
 # 🔥 News
@@ -119,9 +127,6 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 - *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
 - *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
 
-# 📖 Educations
-- *2026 - 2028*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University, USA.
-- *2022 - 2026*, B. S. in Computing Scienc, University of Liverpool, UK.
 
 
 
