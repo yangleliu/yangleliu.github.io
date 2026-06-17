@@ -49,7 +49,7 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/miccai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion-Aware Tissue Completion for Dynamic Gaussian Splatting]
+See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion-Aware Tissue Completion for Dynamic Gaussian Splatting
 
 *Under Review*
 
