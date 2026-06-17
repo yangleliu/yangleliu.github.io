@@ -15,7 +15,7 @@ baidu_site_verification:
 # ========== Site Author ==========
 author:
   name          : "Yangle Liu"
-  avatar        : "images/photo.png"     # 放一张头像到 /images/avatar.jpg（正方形）
+  avatar        : "images/profile image.jpg"     # 放一张头像到 /images/avatar.jpg（正方形）
   bio           : "M.S. in Electrical and Computer Engineering, Carnegie Mellon University"
   location      : "Pittsburgh, US"
   employer      :
