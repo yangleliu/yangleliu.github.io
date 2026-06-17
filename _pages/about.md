@@ -45,6 +45,30 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/miccai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion-Aware Tissue Completion for Dynamic Gaussian Splatting]
+
+*Under Review*
+
+Kan Liu, **Yangle Liu**, Fengze Li, Jieming Ma*
+
+
+- We propose SG-Endo4DGS, a semantic-guided 4D Gaussian Splatting framework that selectively injects reliable tissue geometry priors and completes instrument-occluded regions to achieve cleaner, more complete, and occlusion-consistent see-through dynamic endoscopic reconstruction. 
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSTIS 2024</div><img src='/images/car.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,7 +116,7 @@ Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TMCCA 2024</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2025</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://arxiv.org/abs/2511.22056)
