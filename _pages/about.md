@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, a master’s student in Electrical and Computer Engineering at Carnegie Mellon University. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
+I am Yangle Liu, a master’s student in Electrical and Computer Engineering at CMU. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
 
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
