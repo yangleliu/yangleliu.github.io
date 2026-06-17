@@ -186,7 +186,7 @@ Machine Learning Intern
 
 AUO, Suzhou
 
-Software Development Intern, NUVA Platform Development Department 
+Software Development Intern
 
 *2024.06 - 2024.08*
 
