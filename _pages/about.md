@@ -53,7 +53,7 @@ See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion
 
 *Under Review*
 
-Kan Liu, **Yangle Liu**, Fengze Li, Jieming Ma*
+Kan Liu*, **Yangle Liu***, Fengze Li, Jieming Ma
 
 
 - We propose SG-Endo4DGS, a semantic-guided 4D Gaussian Splatting framework with semantic-gated prior assimilation and occlusion-aware tissue completion to achieve cleaner, more complete, and occlusion-consistent see-through dynamic endoscopic reconstruction.
@@ -69,7 +69,7 @@ Kan Liu, **Yangle Liu**, Fengze Li, Jieming Ma*
 [Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes](https://ieeexplore.ieee.org/abstract/document/11460625)
 
 
-**Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma*
+**Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma
 
 [**Project**](https://github.com/Cola-1/ENDO-G2T) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose ENDO-G²T, a geometry-guided and temporally aware training scheme for time-embedded 4D Gaussian splatting, achieving state-of-the-art reconstruction accuracy and efficiency in dynamic endoscopic scenes.
@@ -84,7 +84,7 @@ Kan Liu, **Yangle Liu**, Fengze Li, Jieming Ma*
 [CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting](https://arxiv.org/abs/2506.01109)
 
 
-Fengze Li, **Yangle Liu**, Jieming Ma*, Hai-Ning Liang, Yaochun Shen, Huangxiang Li, Zhijing Wu 
+Fengze Li*, **Yangle Liu***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxiang Li, Zhijing Wu 
 
 [**Project**](https://github.com/Cola-1/FruitLangGS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose FruitLangGS, a language-guided 3D fruit counting framework that uses adaptive Gaussian splatting, semantic embedding, and prompt-based filtering to efficiently count fruit instances in orchard environments, even under heavy occlusion.
