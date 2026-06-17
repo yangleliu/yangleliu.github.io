@@ -120,8 +120,8 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 - *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
 
 # 📖 Educations
-- *2024.09 - 2026.06*, Undergraduate, University of Liverpool, UK.
-- *2022.09 - 2024.06*, Undergraduate, Xi’an Jiaotong–Liverpool University, Suzhou.
+- *2026 - 2028*, M.S. in Electrical and Computer Engineering, Carnegie Mellon University, USA.
+- *2022 - 2026*, B. S. in Computing Scienc, University of Liverpool, UK.
 
 
 
