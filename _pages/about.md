@@ -151,7 +151,7 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 Honor, Shenzhen
 
-AI Data Engineering Intern 
+Data Analyst Intern, AI Agent & Analytics
 
 *2026.07 - present*
 
