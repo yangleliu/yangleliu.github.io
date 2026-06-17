@@ -143,17 +143,30 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 
 
-# 🎖 Honors and Awards
-
-- *2023* RoboMaster Super Competition: First Prize (Regional), Second Prize (National) 
-- *2023* College Student Information System Innovation Competition: Outstanding Award
-- *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
-- *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
-
-
 
 
 # 💻 Internships
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/honor.png' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Honor, Shenzhen
+
+AI Data Engineering Intern 
+
+*2026.07 - present*
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -182,6 +195,12 @@ Software Development Intern, NUVA Platform Development Department
 
 
 
+# 🎖 Honors and Awards
+
+- *2023* RoboMaster Super Competition: First Prize (Regional), Second Prize (National) 
+- *2023* College Student Information System Innovation Competition: Outstanding Award
+- *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
+- *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
 
 
 <!-- 文末插入：地球容器 -->
