@@ -24,6 +24,11 @@ I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/pers
 
 I have interned as a Machine Learning Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a Software Development Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
 
+
+I’m happy to collaborate with researchers from any field, feel free to contact me via [email](sgyli136@liverpool.ac.uk).
+
+
+
 # 📖 Education
 
 **Carnegie Mellon University** <span style="float: right;">Pittsburgh, US</span>  
@@ -32,7 +37,7 @@ M.S. in Electrical and Computer Engineering <span style="float: right;">Feb. 202
 **University of Liverpool** <span style="float: right;">Liverpool, UK</span>  
 B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</span>
 
-I’m happy to collaborate with researchers from any field, feel free to contact me via [email](sgyli136@liverpool.ac.uk).
+
 # 🔥 News
 - *2026.01*: &nbsp; My first-author paper was accepted by ICASSP 2026! 🎉🎉
 - *2025.08*: &nbsp; My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 🎉🎉
