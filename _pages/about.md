@@ -56,7 +56,7 @@ See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion
 Kan Liu, **Yangle Liu**, Fengze Li, Jieming Ma*
 
 
-- We propose SG-Endo4DGS, a semantic-guided 4D Gaussian Splatting framework that selectively injects reliable tissue geometry priors and completes instrument-occluded regions to achieve cleaner, more complete, and occlusion-consistent see-through dynamic endoscopic reconstruction. 
+- We propose SG-Endo4DGS, a semantic-guided 4D Gaussian Splatting framework with semantic-gated prior assimilation and occlusion-aware tissue completion to achieve cleaner, more complete, and occlusion-consistent see-through dynamic endoscopic reconstruction.
 </div>
 </div>
 
