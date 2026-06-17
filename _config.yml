@@ -16,8 +16,8 @@ baidu_site_verification:
 author:
   name          : "Yangle Liu"
   avatar        : "images/photo.png"     # 放一张头像到 /images/avatar.jpg（正方形）
-  bio           : "BSc Computer Science, University of Liverpool"
-  location      : "Liverpool, UK"
+  bio           : "M.S. in Electrical and Computer Engineering, Carnegie Mellon University"
+  location      : "Pittsburgh, US"
   employer      :
   pubmed        :
   googlescholar : "https://scholar.google.com/citations?user=1XMwUH4AAAAJ&hl=en"  # 以后有 Scholar ID 再填
