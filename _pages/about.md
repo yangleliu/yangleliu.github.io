@@ -172,7 +172,7 @@ Data Analyst Intern, AI Agent & Analytics
 
 Neurova, New York
 
-Machine Learning Intern 
+Algorithm Engineer Intern
 
 *2025.06 - 2025.08*
 
