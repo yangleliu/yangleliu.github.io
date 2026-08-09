@@ -40,6 +40,7 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 
 # 🔥 News
 - *2026.01*: &nbsp; My first-author paper was accepted by ICASSP 2026! 🎉🎉
+- *2026*: &nbsp; My co-first author paper was accepted by ACM Trans. Multimed. Comput. Commun. Appl.! 🎉🎉
 - *2025.08*: &nbsp; My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 🎉🎉
 - *2024.11*: &nbsp; The first collaborative paper I worked on was accepted by ICSTIS, 2024!!!
 
@@ -113,7 +114,7 @@ Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2025</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://arxiv.org/abs/2511.22056)
+[EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://dl.acm.org/doi/abs/10.1145/3833413)
 
 
 Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li* 
