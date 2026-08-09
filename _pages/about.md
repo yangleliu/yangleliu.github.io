@@ -39,10 +39,10 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 
 
 # 🔥 News
-- *2026.01*: &nbsp; My first-author paper was accepted by ICASSP 2026! 🎉🎉
+- *2026*: &nbsp; My first-author paper was accepted by ICASSP 2026! 🎉🎉
 - *2026*: &nbsp; My co-first author paper was accepted by ACM Trans. Multimed. Comput. Commun. Appl.! 🎉🎉
-- *2025.08*: &nbsp; My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 🎉🎉
-- *2024.11*: &nbsp; The first collaborative paper I worked on was accepted by ICSTIS, 2024!!!
+- *2025*: &nbsp; My collaborative paper will be presented as an Oral Presentation at BDAI, 2025! 🎉🎉
+- *2024*: &nbsp; The first collaborative paper I worked on was accepted by ICSTIS, 2024!!!
 
 # 📝 Publications 
 
