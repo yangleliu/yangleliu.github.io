@@ -64,7 +64,8 @@ Kan Liu\*, **Yangle Liu\***, Fengze Li, Jieming Ma
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2025</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://dl.acm.org/doi/abs/10.1145/3833413)
@@ -81,7 +82,7 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li*
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSTIS 2024</div><img src='/images/car.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -129,9 +130,9 @@ Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2025</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSTIS 2024</div><img src='/images/car.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Automated Generation of Parking Data Sets for Underground Car Parks](https://doi.org/10.4271/2025-01-7191)
 
