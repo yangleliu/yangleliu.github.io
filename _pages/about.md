@@ -65,7 +65,7 @@ Kan Liu\*, **Yangle Liu\***, Fengze Li, Jieming Ma
 
 
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2025</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://dl.acm.org/doi/abs/10.1145/3833413)
