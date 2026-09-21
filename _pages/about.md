@@ -73,7 +73,7 @@ Kan Liu\*, **Yangle Liu\***, Fengze Li, Jieming Ma
 
 Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li* 
 
-
+[**Project**](https://github.com/Cola-1/EAST) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose EAST (Environment-Aware Stylized Transition), a framework that uses 3D Gaussian Splatting and style transfer techniques to seamlessly integrate real-world interruptions into virtual environments, ensuring aesthetic consistency and minimizing disruption along the reality-virtuality continuum.
 </div>
 </div>
