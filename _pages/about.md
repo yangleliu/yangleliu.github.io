@@ -25,7 +25,7 @@ I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/pers
 I am currently interning at [HONOR](https://www.honor.com/global/), and I have interned as a MLE Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a SDE Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
 
 
-I’m happy to collaborate with researchers from any field, feel free to contact me via [email](sgyli136@liverpool.ac.uk).
+I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
 
 
 
