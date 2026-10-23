@@ -22,7 +22,7 @@ I am Yangle Liu, a master’s student in Electrical and Computer Engineering at 
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
 
-I am currently interning at [HONOR](https://www.honor.com/global/), and I have interned as a MLE Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a SDE Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
+I have interned as a MLE Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a SDE Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
 
 
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
@@ -149,6 +149,9 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 
 # 💻 Internships
+
+{% comment %}
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/honor.png' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -160,6 +163,9 @@ AI Agent Engineer Intern
 
 </div>
 </div>
+
+{% endcomment %}
+
 
 
 
@@ -175,7 +181,7 @@ AI Agent Engineer Intern
 
 Neurova, New York
 
-Algorithm Engineer Intern
+Software Development Intern
 
 *2025.06 - 2025.08*
 
@@ -200,7 +206,7 @@ Software Development Intern
 
 # 🎖 Honors and Awards
 
-- *2023* RoboMaster Super Competition: First Prize (Regional), Second Prize (National) 
+
 - *2023* College Student Information System Innovation Competition: Outstanding Award
 - *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
 - *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
