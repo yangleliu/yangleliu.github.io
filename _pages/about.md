@@ -17,15 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, a master’s student in Electrical and Computer Engineering at CMU. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
 
+
+
+
+
+
+
+
+
+
+I am Yangle Liu, a master’s student in Electrical and Computer Engineering at CMU. My research spans computer vision and graphics.
+
+I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %}
+
+<span class='anchor' id='about-me'></span>
+
+I am Yangle Liu, a master’s student in Electrical and Computer Engineering at CMU. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
 
 I have interned as a MLE Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a SDE Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
 
-
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
+
+{% endcomment %}
 
 
 
@@ -46,7 +75,7 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 
 # 📝 Publications 
 
-
+{% comment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/miccai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +91,7 @@ Kan Liu\*, **Yangle Liu\***, Fengze Li, Jieming Ma
 </div>
 
 
-
+{% endcomment %}
 
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
@@ -101,6 +130,22 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/fruit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  {% comment %}
 [CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting](https://arxiv.org/abs/2506.01109)
 
 
@@ -115,7 +160,18 @@ Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDAI 2025</div><img src='/images/seed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+{% endcomment %}
 
+
+
+
+
+
+
+
+
+
+  
 [SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](https://ieeexplore.ieee.org/document/11325686)
 
 <span style="color:red">(Oral Presentation)</span>
