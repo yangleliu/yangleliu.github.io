@@ -1,6 +1,6 @@
 # ========== Site Settings ==========
 title       : "Yangle Liu | Computing Science"
-description : "Developing data-driven methods in ML and CV for forecasting, 3D perception, and intelligent systems."
+description : "CV and 3D perception"
 repository  : "yangleliu/yangleliu.github.io"   # <- 如果仓库名与账户同名（user site），这里填 <username>/<username>.github.io
 google_scholar_stats_use_cdn : true
 
