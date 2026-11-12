@@ -114,7 +114,7 @@ B. Xiong\*, **Y. Liu\***
 [EAST: Environment-Aware Stylized Transition Along the Reality-Virtuality Continuum](https://dl.acm.org/doi/abs/10.1145/3833413)
 
 
-Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li* 
+Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li
 
 [**Project**](https://github.com/Cola-1/EAST) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose EAST (Environment-Aware Stylized Transition), a framework that uses 3D Gaussian Splatting and style transfer techniques to seamlessly integrate real-world interruptions into virtual environments, ensuring aesthetic consistency and minimizing disruption along the reality-virtuality continuum.
@@ -190,7 +190,7 @@ Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxi
 
 <span style="color:red">(Oral Presentation)</span>
 
-Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma*, Huangxiang Li 
+Fengze Li, Yue Wang, **Yangle Liu**, Dou Hong, Jieming Ma, Huangxiang Li 
 
 [**Project**](https://github.com/Cola-1/SEED) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose SEED, a structural encoder for embedding-driven decoding, designed to bridge the gap between structural representation learning and semantic inference in multivariate time series forecasting, enabling effective integration with pretrained language models for improved prediction accuracy.
