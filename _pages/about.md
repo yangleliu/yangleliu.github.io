@@ -200,6 +200,18 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 
 # 💻 Internships
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/Tencent.png' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Tencent, Guangzhou
+
+AI Agent Intern (WXG)
+
+*2026.10 - present*
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/honor.png' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
@@ -209,7 +221,7 @@ HONOR, Shenzhen
 
 AI Agent Engineer Intern
 
-*2026.07 - present*
+*2026.06 - 2026.09*
 
 </div>
 </div>
