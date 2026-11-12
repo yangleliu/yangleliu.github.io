@@ -43,7 +43,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, an incoming master’s student in Electrical and Computer Engineering at Carnegie Mellon University. My research interests lie in Agentic AI, Large Language Models and Computer Vision, with a particular focus on visual understanding, agentic systems, and intelligent reasoning.
+I am Yangle Liu, a master student in Electrical and Computer Engineering at Carnegie Mellon University. My research interests lie in Agentic AI, Large Language Models and Computer Vision, with a particular focus on visual understanding, agentic systems, and intelligent reasoning.
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
 
