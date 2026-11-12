@@ -43,11 +43,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, a master’s student in Electrical and Computer Engineering at CMU. My research spans computer vision/graphics and machine learning, with interests in LLMs, real-time scene understanding and editing, high-fidelity rendering, and data-driven methods for robust visual computing.
+I am Yangle Liu, a master’s student in Electrical and Computer Engineering at Carnegie Mellon University. My research interests lie in Agentic AI, Large Language Models and Computer Vision, with a particular focus on visual understanding, agentic systems, and intelligent reasoning.
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
 
-I have interned as a MLE Intern at [Neurova AI](https://www.neurovaai.com/) (New York) and a SDE Intern at [AUO Digitech](https://adttech.com/en-global/) (Suzhou).
+I am currently working as an AI Agent Intern at [Tencent](https://www.tencent.com/). Previously, I worked as an Agent Intern at [HONOR](https://www.honor.com/global/) and a MLE Intern[Neurova AI](https://www.neurovaai.com/).
 
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
 
@@ -58,7 +58,7 @@ I’m happy to collaborate with researchers from any field, feel free to contact
 # 📖 Education
 
 **Carnegie Mellon University** <span style="float: right;">Pittsburgh, US</span>  
-M.S. in Electrical and Computer Engineering <span style="float: right;">Feb. 2027 – Dec. 2029</span>  
+M.S. in Electrical and Computer Engineering <span style="float: right;">Mar. 2027 – Dec. 2029</span>  
 
 **University of Liverpool** <span style="float: right;">Liverpool, UK</span>  
 B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</span>
@@ -79,12 +79,31 @@ See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion
 
 *Under Review*
 
-Kan Liu\*, **Yangle Liu\***, Fengze Li, Jieming Ma
+**Yangle Liu**, Kan Liu, Fengze Li, Jieming Ma
 
 
 - We propose SG-Endo4DGS, a semantic-guided 4D Gaussian Splatting framework with semantic-gated prior assimilation and occlusion-aware tissue completion to achieve cleaner, more complete, and occlusion-consistent see-through dynamic endoscopic reconstruction.
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CtrlBench: Benchmarking LLM Consistency with Controlled Biomedical Vocabularies
+
+*Under Review*
+
+B. Xiong\*, **Y. Liu\***
+
+
+- We propose CtrlBench, a multi-ontology benchmark for evaluating semantic consistency in biomedical large language models across synonymy, subsumption, and disjointness,
+</div>
+</div>
+
+
 
 
 
@@ -273,11 +292,8 @@ Software Development Intern
 
 # 🎖 Honors and Awards
 
-
+- *2023* RoboMaster Master Super Competition: First Prize
 - *2023* College Student Information System Innovation Competition: Outstanding Award
-- *2023* Campus Technology Innovation Association: Managed 3D Modeling Project
-- *2022* Campus Ambassador for XJTLU: Achieved promotional targets with six schools, received Pioneer Award 
-
 
 <!-- 文末插入：地球容器 -->
 <div id="globeViz" style="width:340px;height:340px;margin:32px auto;"></div>
