@@ -104,6 +104,18 @@ B. Xiong\*, **Y. Liu\***
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/Figure_3_System_Architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting](https://arxiv.org/abs/2506.01109)
+
+
+Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxiang Li, Zhijing Wu 
+
+[**Project**](https://github.com/Cola-1/FruitLangGS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose FruitLangGS, a language-guided 3D fruit counting framework that uses adaptive Gaussian splatting, semantic embedding, and prompt-based filtering to efficiently count fruit instances in orchard environments, even under heavy occlusion.
+</div>
+</div>
 
 
 
@@ -141,49 +153,11 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/Figure_3_System_Architecture.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-[CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting](https://arxiv.org/abs/2506.01109)
-
-
-Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxiang Li, Zhijing Wu 
-
-[**Project**](https://github.com/Cola-1/FruitLangGS) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose FruitLangGS, a language-guided 3D fruit counting framework that uses adaptive Gaussian splatting, semantic embedding, and prompt-based filtering to efficiently count fruit instances in orchard environments, even under heavy occlusion.
-</div>
-</div>
 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDAI 2025</div><img src='/images/seed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-
-
-
-
-
-
-
-
 
   
 [SEED: A Structural Encoder for Embedding-Driven Decoding in Time Series Prediction with LLMs](https://ieeexplore.ieee.org/document/11325686)
