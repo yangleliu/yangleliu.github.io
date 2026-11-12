@@ -117,7 +117,19 @@ Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+
+[Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes](https://ieeexplore.ieee.org/abstract/document/11460625)
+
+
+**Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma
+
+[**Project**](https://github.com/Cola-1/ENDO-G2T) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose ENDO-G²T, a geometry-guided and temporally aware training scheme for time-embedded 4D Gaussian splatting, achieving state-of-the-art reconstruction accuracy and efficiency in dynamic endoscopic scenes.
+</div>
+</div>
 
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
@@ -137,19 +149,7 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-
-[Endo-G²T: Geometry-Guided & Temporally Aware Time-Embedded 4DGS for Endoscopic Scenes](https://ieeexplore.ieee.org/abstract/document/11460625)
-
-
-**Yangle Liu**, Fengze Li, Kan Liu, Jieming Ma
-
-[**Project**](https://github.com/Cola-1/ENDO-G2T) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose ENDO-G²T, a geometry-guided and temporally aware training scheme for time-embedded 4D Gaussian splatting, achieving state-of-the-art reconstruction accuracy and efficiency in dynamic endoscopic scenes.
-</div>
-</div>
 
 
 
