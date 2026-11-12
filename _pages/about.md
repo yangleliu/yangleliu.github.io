@@ -27,9 +27,6 @@ redirect_from:
 
 
 
-I am Yangle Liu, a master’s student in Electrical and Computer Engineering at CMU. My research spans computer vision and graphics.
-
-I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
 
 
 
@@ -42,7 +39,7 @@ I’m happy to collaborate with researchers from any field, feel free to contact
 
 
 
-{% comment %}
+
 
 <span class='anchor' id='about-me'></span>
 
@@ -54,7 +51,7 @@ I have interned as a MLE Intern at [Neurova AI](https://www.neurovaai.com/) (New
 
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
 
-{% endcomment %}
+
 
 
 
@@ -75,7 +72,6 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 
 # 📝 Publications 
 
-{% comment %}
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/miccai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,7 +87,6 @@ Kan Liu\*, **Yangle Liu\***, Fengze Li, Jieming Ma
 </div>
 
 
-{% endcomment %}
 
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='/images/EAST.png' alt="sym" width="100%"></div></div>
@@ -145,7 +140,7 @@ Xiaohan Zhang, Kan Liu, **Yangle Liu**, Fangze Li, Jieming Ma and Yue Li*
   
   
   
-  {% comment %}
+  
 [CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting](https://arxiv.org/abs/2506.01109)
 
 
@@ -160,7 +155,7 @@ Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BDAI 2025</div><img src='/images/seed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-{% endcomment %}
+
 
 
 
@@ -206,7 +201,6 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
 
 # 💻 Internships
 
-{% comment %}
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/honor.png' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -220,7 +214,7 @@ AI Agent Engineer Intern
 </div>
 </div>
 
-{% endcomment %}
+
 
 
 
