@@ -108,7 +108,7 @@ CtrlBench: Benchmarking LLM Consistency with Controlled Biomedical Vocabularies
 
 *Under Review*
 
-**Y. Liu\***, *B. Xiong\*
+**Y. Liu\***, B. Xiong\*
 
 
 - We propose CtrlBench, a multi-ontology benchmark for evaluating semantic consistency in biomedical large language models across synonymy, subsumption, and disjointness,
