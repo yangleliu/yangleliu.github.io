@@ -87,23 +87,6 @@ Admit, Attenuate, Reject: An LLM-Driven Reliability Gate for 4D Endoscopic Gauss
 </div>
 
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/bench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-CtrlBench: Benchmarking LLM Consistency with Controlled Biomedical Vocabularies
-
-*Under Review*
-
-B. Xiong\*, **Y. Liu\***
-
-
-- We propose CtrlBench, a multi-ontology benchmark for evaluating semantic consistency in biomedical large language models across synonymy, subsumption, and disjointness,
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/Figure_3_System_Architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -116,6 +99,23 @@ Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxi
 - We propose FruitLangGS, a language-guided 3D fruit counting framework that uses adaptive Gaussian splatting, semantic embedding, and prompt-based filtering to efficiently count fruit instances in orchard environments, even under heavy occlusion.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CtrlBench: Benchmarking LLM Consistency with Controlled Biomedical Vocabularies
+
+*Under Review*
+
+**Y. Liu\***, *B. Xiong\*
+
+
+- We propose CtrlBench, a multi-ontology benchmark for evaluating semantic consistency in biomedical large language models across synonymy, subsumption, and disjointness,
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -202,7 +202,7 @@ Jiakai Li, **Yangle Liu**, Zheng Rong
   </div>
   <div class='paper-box-text' markdown="1">
 
-Tencent, Guangzhou
+Tencent
 
 AI Agent Intern (WXG)
 
@@ -215,7 +215,7 @@ AI Agent Intern (WXG)
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/honor.png' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-HONOR, Shenzhen
+HONOR
 
 AI Agent Engineer Intern
 
@@ -239,9 +239,9 @@ AI Agent Engineer Intern
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/Neurova.jpg' alt="sym" style="width:150px; height:100px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Neurova, New York
+Neurova
 
-Software Development Intern
+Machine Learning Intern
 
 *2025.06 - 2025.08*
 
@@ -253,7 +253,7 @@ Software Development Intern
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/auo (2).png' alt="sym" style="width:100px; height:100px; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AUO, Suzhou
+AUO
 
 Software Development Intern
 
