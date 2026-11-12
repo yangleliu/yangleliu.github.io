@@ -72,17 +72,17 @@ B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/miccai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-See-Through 4D Endoscopy via Semantic-Guided Geometry Assimilation and Occlusion-Aware Tissue Completion for Dynamic Gaussian Splatting
+Admit, Attenuate, Reject: An LLM-Driven Reliability Gate for 4D Endoscopic Gaussian Splatting
 
 *Under Review*
 
 **Yangle Liu**, Kan Liu, Fengze Li, Jieming Ma
 
 
-- We propose SG-Endo4DGS, a semantic-guided 4D Gaussian Splatting framework with semantic-gated prior assimilation and occlusion-aware tissue completion to achieve cleaner, more complete, and occlusion-consistent see-through dynamic endoscopic reconstruction.
+- We propose an LLM-driven reliability gate for 4D Endoscopic Gaussian Splatting, leveraging LLM-based visual reasoning, semantic reliability assessment, and adaptive supervision to improve the robustness of dynamic endoscopic reconstruction.
 </div>
 </div>
 
