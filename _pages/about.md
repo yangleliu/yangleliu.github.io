@@ -101,8 +101,16 @@ Fengze Li\*, **Yangle Liu\***, Jieming Ma, Hai-Ning Liang, Yaochun Shen, Huangxi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='/images/bench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
+<!--
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">arXiv preprint</div>
+      <img src='/images/bench.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 CtrlBench: Benchmarking LLM Consistency with Controlled Biomedical Vocabularies
 
@@ -110,11 +118,11 @@ CtrlBench: Benchmarking LLM Consistency with Controlled Biomedical Vocabularies
 
 **Y. Liu\***, B. Xiong\*
 
-
 - We propose CtrlBench, a multi-ontology benchmark for evaluating semantic consistency in biomedical large language models across synonymy, subsumption, and disjointness,
-</div>
-</div>
 
+  </div>
+</div>
+-->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='/images/endo2.png' alt="sym" width="100%"></div></div>
