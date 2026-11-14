@@ -58,10 +58,10 @@ I’m happy to collaborate with researchers from any field, feel free to contact
 # 📖 Education
 
 **Carnegie Mellon University** <span style="float: right;">Pittsburgh, US</span>  
-M.S. in Electrical and Computer Engineering <span style="float: right;">Mar. 2027 – Dec. 2029</span>  
+M.S. in Electrical and Computer Engineering <span style="float: right;">Aug. 2027 – Dec. 2029</span>  
 
 **University of Liverpool** <span style="float: right;">Liverpool, UK</span>  
-B.S. in Computing Science <span style="float: right;">Sep. 2022 – Jun. 2026</span>
+B.S. in Computer Science <span style="float: right;">Sep. 2022 – Jun. 2026</span>
 
 
 # 🔥 News
