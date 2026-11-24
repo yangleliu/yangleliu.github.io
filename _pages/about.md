@@ -49,7 +49,7 @@ I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/pers
 
 I am currently working as an AI Agent Intern at [Tencent](https://www.tencent.com/) in my gap year. Previously, I worked as an Agent Intern at [HONOR](https://www.honor.com/global/) and a MLE Intern in [Neurova AI](https://www.neurovaai.com/).
 
-I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
+I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleliu26@outlook.com).
 
 
 
