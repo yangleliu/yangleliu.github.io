@@ -43,11 +43,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yangle Liu, a master student in Electrical and Computer Engineering at Carnegie Mellon University. My research interests lie in Agentic AI, Large Language Models and Computer Vision, with a particular focus on visual understanding, agentic systems, and intelligent reasoning.
+I am Yangle Liu, a undergraduate student in Computer Science at University of Liverpool. My research interests lie in Agentic AI, Large Language Models and Computer Vision, with a particular focus on visual understanding, agentic systems, and intelligent reasoning.
 
 I am joint supervised by [Prof. Jieming Ma](https://scholar.xjtlu.edu.cn/en/persons/JiemingMa) (Xi’an Jiaotong–Liverpool University) and [Prof. Dominik Wojtczak](https://www.liverpool.ac.uk/people/dominik-wojtczak) (University of Liverpool). Additionally, I have engaged in extensive collaborative research with international scholars such as [Prof. Hai-Ning Liang](https://cma.hkust-gz.edu.cn/people/hai-ning-liang/) (HKUST–Guangzhou), [Prof. Yaochun Shen](https://www.liverpool.ac.uk/people/yaochun-shen) (University of Liverpool), and [Postdoc Bo Xiong](https://boxiong.io/) (Stanford University), all of whom remain my close academic collaborators.
 
-I am currently working as an AI Agent Intern at [Tencent](https://www.tencent.com/). Previously, I worked as an Agent Intern at [HONOR](https://www.honor.com/global/) and a MLE Intern in [Neurova AI](https://www.neurovaai.com/).
+I am currently working as an AI Agent Intern at [Tencent](https://www.tencent.com/) in my gap year. Previously, I worked as an Agent Intern at [HONOR](https://www.honor.com/global/) and a MLE Intern in [Neurova AI](https://www.neurovaai.com/).
 
 I’m happy to collaborate with researchers from any field, feel free to contact me via [email](yangleli@andrew.cmu.edu).
 
@@ -57,8 +57,6 @@ I’m happy to collaborate with researchers from any field, feel free to contact
 
 # 📖 Education
 
-**Carnegie Mellon University** <span style="float: right;">Pittsburgh, US</span>  
-M.S. in Electrical and Computer Engineering <span style="float: right;">Aug. 2027 – Dec. 2029</span>  
 
 **University of Liverpool** <span style="float: right;">Liverpool, UK</span>  
 B.S. in Computer Science <span style="float: right;">Sep. 2022 – Jun. 2026</span>
